@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Thebe\OneDrive\Documenti\Visual Studio 2022\Projects\OpenGlSetting\OpenGlSetting\WindowGL.h(19,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Thebe\OneDrive\Documenti\Visual Studio 2022\Projects\OpenGlSetting\OpenGlSetting\WindowGL.h(20,38): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Thebe\OneDrive\Documenti\Visual Studio 2022\Projects\OpenGlSetting\OpenGlSetting\main.cpp(433,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  1 of 982 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGlSetting.vcxproj -> C:\Users\Thebe\OneDrive\Documenti\Visual Studio 2022\Projects\OpenGlSetting\Release\OpenGlSetting.exe
